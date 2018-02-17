@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BlackBox Labs</string>
+    <string name="description_1">Black Box Labs is a company founded in 2014 by a group of veteran QA specialists.</string>
+    <string name="description_2">We provide solutions for companies that want to outsource their QA department but also for companies which need QA on short terms. Our goal is to establish long term relations with companies that develop games and applications.</string>
+    <string name="description_3">Because we want to satisfy our clients needs we developed and we are constantly developing our procedures so that we can overcome any problems related to outsourcing.</string>
+    <string name="description_4">The experience we have ranges from testing games on mobile platforms to creating scripts for automated testing.</string>
+    <string name="desc_header">Short Description</string>
+    <string name="contact_header">Contact</string>
+    <string name="website_1">Website:</string>
+    <string name="website_2">www.blackboxlabs.ro</string>
+    <string name="phone_1">Phone No.:</string>
+    <string name="phone_2">+40762832747</string>
+    <string name="address_1">Address:</string>
+    <string name="address_2">B-dul Unirii nr.59, Bl B1, Focsani, Vrancea</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
